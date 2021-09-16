@@ -3,3 +3,5 @@ This is the main branch
 3: The main branch includes a third line
 4: The main branch also contains a fourth line
 5: The main branch also contains a fifth line
+
+7: The seventh-line branch also contains a seventh line
